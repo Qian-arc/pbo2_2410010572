@@ -8,6 +8,6 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>25</maven.compiler.release>
-        <id.ac.uniska.pbo2.p01.HaloPBO2>id.ac.uniska.pbo2.p01.P01HaloJava</id.ac.uniska.pbo2.p01.HaloPBO2>
+        <id.ac.uniska.pbo2.p01.KartuMahasiswa>id.ac.uniska.pbo2.p01.P01HaloJava</id.ac.uniska.pbo2.p01.KartuMahasiswa>
     </properties>
 </project>
