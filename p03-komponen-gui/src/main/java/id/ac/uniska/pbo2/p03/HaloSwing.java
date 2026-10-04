@@ -6,7 +6,7 @@ package id.ac.uniska.pbo2.p03;
 
 /**
  *
- * @author ASUS TUF
+ * @author ASUS
  */
 import com.formdev.flatlaf.FlatLightLaf;
 public class HaloSwing extends javax.swing.JFrame {
