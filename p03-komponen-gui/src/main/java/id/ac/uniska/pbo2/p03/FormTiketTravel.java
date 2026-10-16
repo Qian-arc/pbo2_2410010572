@@ -6,7 +6,7 @@ package id.ac.uniska.pbo2.p03;
 
 /**
  *
- * @author ASUS
+ * @author ASUS TUF
  */
 public class FormTiketTravel extends javax.swing.JFrame {
     
