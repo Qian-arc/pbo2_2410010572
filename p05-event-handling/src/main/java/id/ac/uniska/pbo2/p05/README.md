@@ -44,25 +44,26 @@
 
 ## 4. Tangkapan Layar (Screenshots)
 ### A. Properties Events Tombol Daftar
-![Properties Events Daftar](images/properties_daftar.png)
+![Properties Events Daftar](Foto/propertiesDaftar.png)
 
 ### B. Dialog Ringkasan Pendaftaran
-![Dialog Ringkasan](images/dialog_ringkasan.png)
+![Dialog Ringkasan](Foto/dialogRingkas.png)
 
 ### C. Dialog Konfirmasi Keluar
-![Dialog Konfirmasi Keluar](images/dialog_keluar.png)
+![Dialog Konfirmasi Keluar](Foto/dialogKeluar.png)
 
 ### A. Jendela Properties Bagian Events untuk Tombol Daftar
 (Sisipkan gambar tangkapan layar jendela Properties -> Events untuk daftarButton di sini)  
-![Properties Events Daftar](images/properties_daftar.png)
+![Properties Events Daftar](Foto/propertieDaftar.png)
 
 ### B. Dialog Ringkasan Pendaftaran
 (Sisipkan gambar tangkapan layar saat tombol Daftar diklik dan memunculkan JOptionPane)  
-![Dialog Ringkasan](images/dialog_ringkasan.png)
+![Dialog Ringkasan](Foto/dialogRingkasan.png)
 
 ### C. Dialog Konfirmasi Keluar Form
 (Sisipkan gambar tangkapan layar saat tombol 'X' ditekan dan memunculkan dialog konfirmasi)  
-`![Dialog Konfirmasi Keluar](images/dialog_keluar.png)
+`![Dialog Konfirmasi Keluar](Foto/dialogKeluar.png)
+
 ## 5. Deklarasi Penggunaan AI
 * **Alat yang dipakai:** Gemini (Google)
 * **Keperluan:** Membantu memahami struktur event handling Java Swing, menyusun logika event handler form anggota perpustakaan, serta merapikan kode praktikum.
